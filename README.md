@@ -6,7 +6,7 @@
 
 - 🔭 I'm into Machine Learning, Deep Learning, Computer engineering and computer networks
 - 🌱 I’m currently learning python, c++ and DSA
-- 👯 I’m looking to collaborate on Kaggle Competitions
+- 👯 I’m looking to collaboratefor Hackethons
 - 🤔 I’m looking for help with currently nothing 😁
 - ⚡ Fun fact: I am a Linux 4x Expert
 
