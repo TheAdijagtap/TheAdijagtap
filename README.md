@@ -3,8 +3,6 @@
 ---
 
 - 🔭 I'm into Machine Learning, Deep Learning andcomputer networks
-- 🌱 I’m currently learning python, c++ and DSA
-- 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Linux 4x Expert
+- 🌱 I’m currently learning c++ and DSA
 
 ---
